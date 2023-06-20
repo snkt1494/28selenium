@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="51157" started-at="2023-06-20T17:53:24 IST" finished-at="2023-06-20T17:54:15 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="51157" started-at="2023-06-20T17:53:24 IST" finished-at="2023-06-20T17:54:15 IST">
+      <class name="POM_DDF_TestNG_BaseClass_UtilityClass.PBLoginTest1">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:POM_DDF_TestNG_BaseClass_UtilityClass.PBLoginTest1@7b69c6ba]" name="openBrowser" is-config="true" duration-ms="24094" started-at="2023-06-20T17:53:24 IST" finished-at="2023-06-20T17:53:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="loginToApp()[pri:0, instance:POM_DDF_TestNG_BaseClass_UtilityClass.PBLoginTest1@7b69c6ba]" name="loginToApp" is-config="true" duration-ms="17007" started-at="2023-06-20T17:53:48 IST" finished-at="2023-06-20T17:54:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToApp -->
+        <test-method status="PASS" signature="verifyFullName()[pri:0, instance:POM_DDF_TestNG_BaseClass_UtilityClass.PBLoginTest1@7b69c6ba]" name="verifyFullName" duration-ms="6842" started-at="2023-06-20T17:54:05 IST" finished-at="2023-06-20T17:54:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyFullName -->
+        <test-method status="PASS" signature="logoutFromApp()[pri:0, instance:POM_DDF_TestNG_BaseClass_UtilityClass.PBLoginTest1@7b69c6ba]" name="logoutFromApp" is-config="true" duration-ms="1" started-at="2023-06-20T17:54:12 IST" finished-at="2023-06-20T17:54:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutFromApp -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:POM_DDF_TestNG_BaseClass_UtilityClass.PBLoginTest1@7b69c6ba]" name="closeBrowser" is-config="true" duration-ms="3121" started-at="2023-06-20T17:54:12 IST" finished-at="2023-06-20T17:54:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- POM_DDF_TestNG_BaseClass_UtilityClass.PBLoginTest1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
